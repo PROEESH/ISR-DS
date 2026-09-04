@@ -1,2 +1,5 @@
-# ISR-DS
-DS project in HIT 2026 Ido, Shir, Roee
+# YouTube Toxic Comment Classification
+
+HIT Machine Learning assignment.
+
+[Open the project notebook](youtube_toxicity_classification.ipynb)
